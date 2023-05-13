@@ -4,7 +4,18 @@
 body {
   font-family: 'nanumsquare'; 
 }
-
+div {
+  box-sizing: border-box;
+}
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+}
+.list {
+  text-align: left;
+  padding-left: 20px;
+}
 .black-nav {
   background: black;
   width: 100%;
